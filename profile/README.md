@@ -1,12 +1,33 @@
-## Hi there 👋
+ # 🧩 Organization Info
 
-<!--
+- 🏢 **This is the home for Shin Era Tech’s codebase!**  
+- 👤 **For administrative or organizational matters, please contact:**  
+  📧 **Contact:** [George](mailto:mr.xim522@gmail.com), [Marcus](mailto:makok081397@gmail.com)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🌸 Beauty Contest — by Shin Era Tech
+
+A modern and interactive web application built to manage **beauty contests** with ease and style.  
+Developed using **Next.js**, it offers an elegant interface for **contestant registration**, **photo galleries**, and **real-time online voting** — all optimized for performance and mobile responsiveness.
+
+### 🚀 Features
+
+- 👑 **Contestant Management** – Add, edit, and showcase participants with detailed profiles and photos  
+- 💬 **Online Voting System** – Secure, real-time voting with validation  
+- 🏆 **Leaderboard Display** – Dynamic ranking board that updates instantly  
+- 📱 **Responsive Design** – Optimized for all devices using modern UI components
+
+### 🔗 Demo
+
+🌐 [**Live Site → shinerabeautycontest.com**](https://shinerabeautycontest.com)
+
+---
+
+# 🧑‍💻 About Shin Era Tech
+
+**Shin Era Tech** focuses on building smart, scalable, and visually engaging web applications.  
+This project showcases our commitment to blending **technology, design, and real-world functionality** in one seamless digital experience.
+
+---
